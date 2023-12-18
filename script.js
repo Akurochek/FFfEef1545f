@@ -1,6 +1,3 @@
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
-
-
 
 // Сцена
 const scene = new THREE.Scene();
